@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Page</title>
+    <link rel="stylesheet" href="/Page_01/Main/css/web1c1.css">
+</head>
+
+<body>
+    <img src="/Page_01/imejji/img2.jpg" alt="Profile">
+    <div class="username">
+        <p>Samuel "Motherfuckin" Jackson</p>
+    </div>
+    <p class="bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga eum officia natus fugiat, harum consectetur labore adipisci, voluptas, aliquid minus voluptatibus sit dolores veritatis dignissimos illum at quos quo eius!</p>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Watch Video</a>
+    <a href="https://web.facebook.com/groups/395829252906836">Click me</a>
+    <h1>Malaking ipikto</h1>
+    <h2>sa bustun siltiks</h2>
+    <h3>ang pagkawala</h3>
+    <h4>ni jisun titum</h4>
+    <h5>sa kanilang line up</h5>
+    <h6>nila dahil sa gim 6</h6>
+
+    
+    <ul>
+        <li>Yorushika</li>
+        <li>Aimer</li>
+        <li>Zutomayo</li>
+    </ul>
+
+    <ol>
+        <li>Bass</li>
+        <li>Code</li>
+        <li>Exercise</li>
+    </ol>
+</body>
+</html>
