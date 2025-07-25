@@ -1,0 +1,22 @@
+body {
+    background-color: crimson;    
+}
+
+img {
+            width: 300px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
+
+.username {
+            font-weight: bold;
+            font-size: 30px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+.bio {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
